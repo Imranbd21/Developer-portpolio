@@ -35,4 +35,27 @@ section{
 .top-banner{
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
+
 }
+.dream img{
+    border-radius: 50%;
+    width: 80%;
+    height: 80%;
+    padding:3%;
+}
+.half-width{
+    width: 50%;
+
+}
+section{
+    display: flex;
+    margin: auto;
+}
+.my-dream{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+
