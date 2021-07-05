@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.potani{
+    color:orange;
+}
+
+section{
+    display: flex;
+
+}
+.half-width{
+    padding:3%;
+    width: 50%;
+}
+.half-width img{
+    padding:3%;
+    width: 70%;
+    height: 75%;
+    border-radius:50%;
+}
+.link-button{
+    text-decoration: none;
+    background-color:rgb(207, 108, 26);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: black;
+    background-image:linear-gradient(tomato, orange);
+    
+}
+.top-banner{
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
